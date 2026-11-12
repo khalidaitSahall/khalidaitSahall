@@ -29,3 +29,12 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=khalidsahalSYS&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Khalid's GitHub Stats" />
 </p>
+
+---
+
+### 🌐 My Portfolio / موقعي الشخصي
+<p align="left">
+  <a href="https://github.com/khalidsahalSYS" target="_blank">
+    <img src="https://img.shields.io/badge/Website-Visit%20Portfolio-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
