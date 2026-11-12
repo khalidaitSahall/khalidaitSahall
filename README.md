@@ -24,11 +24,11 @@
 
 ### 🧰 المهارات والأدوات / Skills & Tools:
 
-* ⚙️ **المهارات المهنية / Professional Skills:**
+- ⚙️ **المهارات المهنية / Professional Skills:**
   > تصميم وتركيب الأبواب والنوافذ والواجهات الزجاجية، قراءة التصاميم الفنية، وإتقان الآلات المهنية.  
   > *Design & installation of doors, windows, and glass facades, technical blueprint reading, and professional machinery mastery.*
 
-* 💡 **المهارات الشخصية / Soft Skills:**
+- 💡 **المهارات الشخصية / Soft Skills:**
   > الدقة في التفاصيل، حل المشكلات، العمل الجماعي، والالتزام بالمواعيد.  
   > *Attention to detail, problem-solving, teamwork, and reliability.*
 
@@ -50,7 +50,7 @@
 
 ### 🌐 My Portfolio / موقعي الشخصي
 <p align="left">
-  <a href="https://github.com/khalidsahalSYS" target="_blank">
+  <a href="https://khalid-ait-sahal.ai.studio/" target="_blank">
     <img src="https://img.shields.io/badge/Website-Visit%20Portfolio-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:khalidsahal27@gmail.com">
