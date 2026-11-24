@@ -43,7 +43,7 @@
 
 ### 📊 إحصائيات حسابي على GitHub / GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=khalidsahalSYS&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Khalid's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khalidaitSahall&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Khalid's GitHub Stats" />
 </p>
 
 ---
